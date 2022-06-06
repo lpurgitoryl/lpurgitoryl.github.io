@@ -46,7 +46,7 @@ social:
 # - title: stack-overflow
 #   url: http://stackoverflow.com/questions/tagged/jekyll
   - title: linkedin
-   url: https://www.linkedin.com/in/nicoleb-garcia/
+    url: https://www.linkedin.com/in/nicoleb-garcia/
   - title: github
     url: http://github.com/jekyll
 
