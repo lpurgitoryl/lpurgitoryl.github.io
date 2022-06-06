@@ -29,4 +29,6 @@ View this jekyll theme in action [here](https://jeromelachaud.com/freelancer-the
 ![screenshot](https://raw.githubusercontent.com/jeromelachaud/freelancer-theme/master/screenshot.png)
 
 ---------
-For more details, read the [documentation](http://jekyllrb.com/)
+For more details, read the [documentation](http://jekyllrb.com/) to build and deploy jekyll sites.
+
+And visit the orginal creator's [github](https://github.com/jeromelachaud/freelancer-theme)
