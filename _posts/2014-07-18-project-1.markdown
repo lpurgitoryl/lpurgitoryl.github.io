@@ -2,10 +2,11 @@
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: cabin.png
+img: Arc_Reactor.jpg
 alt: image-alt
 project-date: April 2014
 #client: Start Bootstrap
 category: Embedded Systems
-description: Created Iron Man's Mark I Arc Reactor using a 3D printed housing and individually controlling the LED's via an Arduino microcontroller.
+youtube-video: <iframe width="560" height="315" src="https://www.youtube.com/embed/1DcfSf4Fniw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+description: Created Iron Man's Mark I Arc Reactor using a 3D printed housing and individually controlling the LED's via an Arduino microcontroller. 
 ---
