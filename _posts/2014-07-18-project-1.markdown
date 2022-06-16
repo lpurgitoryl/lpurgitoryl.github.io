@@ -2,6 +2,7 @@
 layout: default
 modal-id: 1
 date: 2014-07-18
+alt-title:  Arduino Arc Reactor
 img: Arc_Reactor.jpg
 alt: image-alt
 project-date: April 2014

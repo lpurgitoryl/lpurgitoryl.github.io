@@ -12,11 +12,13 @@ Jekyll theme based on [Freelancer bootstrap theme ](http://startbootstrap.com/te
 layout: default
 modal-id: 1
 date: 2020-01-18
+alt-title: title other than post name
 img: cabin.png
 alt: image-alt
 project-date: January 2020
 client: The Client
 category: Web Development
+youtube-video: <iframe width="560" height="315" src="https://www.youtube.com/embed/1DcfSf4Fniw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 description: The description of the project
 
 ---
